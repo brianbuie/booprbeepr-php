@@ -2,7 +2,7 @@
 
 View live implementation and create an account at http://booprbeepr.brianbuie.com
 
-A poorly organized and poorly documented PHP project from 2014, but it works!
+An early PHP project from 2014, it's not perfect, but it works!
 
 ![Screenshot](http://i.imgur.com/d83ecAU.png)
 
