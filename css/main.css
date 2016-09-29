@@ -1,0 +1,62 @@
+body {
+	font-family: 'Varela Round', sans-serif;
+}
+
+body > .header .logo{
+	font-family: 'Varela Round', sans-serif;
+	font-weight: 900;
+}
+
+
+.right-side, .content{
+	background: none;
+}
+
+.skin-blue .left-side{
+	background-color: rgba(230,230,230,.7);
+}
+
+.skin-blue .sidebar > .sidebar-menu > li{
+	border: none;
+}
+
+.skin-blue .sidebar{
+	border: none;
+}
+
+.form-inline{
+	display: inline-block !important;
+	margin-left: 10px;
+}
+
+#main-wrapper{
+	margin: 0 auto 0 auto;
+}
+
+.box{
+	overflow: hidden;
+}
+
+.box .box-header .box-title{
+	text-align: center;
+	display: block;
+	float: none;
+}
+
+.callout.callout-success {
+	background-color: #f2fcf2;
+	border-color: #b4dfb5;
+}
+
+.callout.callout-success h4 {
+	color: #58b948;
+}
+
+.change-picture-button{
+	position: relative;
+	top: -10px;
+}
+
+.badge span{
+	font-size: 12px !important;
+}
